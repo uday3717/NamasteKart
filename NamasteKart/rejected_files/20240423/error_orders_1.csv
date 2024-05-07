@@ -1,0 +1,51 @@
+order_id,order_date,product_id,quantity,sales,city,reason
+7,05-04-24,900,3,30000,Bangalore,product_id not found in masters table
+7,05-04-24,500,2,30000,chennai,total sales amount not equal to quantity*price
+7,05-05-24,500,3,30000,chennai,order date is future
+7,05-04-24,500,3,30000,,city field is null
+7,05-04-24,500,3,30000,chennai,City is different
+7,05-04-24,900,3,30000,Bangalore,product_id not found in masters table
+7,05-04-24,500,2,30000,chennai,total sales amount not equal to quantity*price
+7,05-05-24,500,3,30000,chennai,order date is future
+7,05-04-24,500,3,30000,,city field is null
+7,05-04-24,500,3,30000,chennai,City is different
+7,05-04-24,900,3,30000,Bangalore,product_id not found in masters table
+7,05-04-24,500,2,30000,chennai,total sales amount not equal to quantity*price
+7,05-05-24,500,3,30000,chennai,order date is future
+7,05-04-24,500,3,30000,,city field is null
+7,05-04-24,500,3,30000,chennai,City is different
+7,05-04-24,900,3,30000,Bangalore,product_id not found in masters table
+7,05-04-24,500,2,30000,chennai,total sales amount not equal to quantity*price
+7,05-05-24,500,3,30000,chennai,order date is future
+7,05-04-24,500,3,30000,,city field is null
+7,05-04-24,500,3,30000,chennai,City is different
+7,05-04-24,900,3,30000,Bangalore,product_id not found in masters table
+7,05-04-24,500,2,30000,chennai,total sales amount not equal to quantity*price
+7,05-05-24,500,3,30000,chennai,order date is future
+7,05-04-24,500,3,30000,,city field is null
+7,05-04-24,500,3,30000,chennai,City is different
+7,05-04-24,900,3,30000,Bangalore,product_id not found in masters table
+7,05-04-24,500,2,30000,chennai,total sales amount not equal to quantity*price
+7,05-05-24,500,3,30000,chennai,order date is future
+7,05-04-24,500,3,30000,,city field is null
+7,05-04-24,500,3,30000,chennai,City is different
+7,05-04-24,900,3,30000,Bangalore,product_id not found in masters table
+7,05-04-24,500,2,30000,chennai,total sales amount not equal to quantity*price
+7,05-05-24,500,3,30000,chennai,order date is future
+7,05-04-24,500,3,30000,,city field is null
+7,05-04-24,500,3,30000,chennai,City is different
+7,05-04-24,900,3,30000,Bangalore,product_id not found in masters table
+7,05-04-24,500,2,30000,chennai,total sales amount not equal to quantity*price
+7,05-05-24,500,3,30000,chennai,order date is future
+7,05-04-24,500,3,30000,,city field is null
+7,05-04-24,500,3,30000,chennai,City is different
+7,05-04-24,900,3,30000,Bangalore,product_id not found in masters table
+7,05-04-24,500,2,30000,chennai,total sales amount not equal to quantity*price
+7,05-05-24,500,3,30000,chennai,order date is future
+7,05-04-24,500,3,30000,,city field is null
+7,05-04-24,500,3,30000,chennai,City is different
+7,05-04-24,900,3,30000,Bangalore,product_id not found in masters table
+7,05-04-24,500,2,30000,chennai,total sales amount not equal to quantity*price
+7,05-05-24,500,3,30000,chennai,order date is future
+7,05-04-24,500,3,30000,,city field is null
+7,05-04-24,500,3,30000,chennai,City is different
